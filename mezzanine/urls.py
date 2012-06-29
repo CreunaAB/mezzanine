@@ -1,7 +1,7 @@
 """
 This is the main ``urlconf`` for Mezzanine - it sets up patterns for
 all the various Mezzanine apps, third-party apps like Grappelli and
-filebrowser.
+filebrowser. Test.
 """
 
 from urlparse import urlsplit
